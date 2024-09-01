@@ -1,0 +1,10 @@
+# Machine Learning
+torch  # This is left to be determined automatically by pip. Not all versions are compatible with the below Pyro version.
+pyro-ppl==1.9.1
+numpy==2.1.0
+
+# Plotting
+matplotlib==3.9.2
+
+# Utilities
+tqdm==4.66.5
